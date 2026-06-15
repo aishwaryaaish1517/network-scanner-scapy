@@ -61,7 +61,10 @@ python src/gui.py
 5. Enter your network's IP range (e.g., 192.168.1.0/24) and click "Scan Now"
 
 ## Sample Output
-(See screenshots folder for GUI, HTML report, and CSV examples)
+![GUI SCAN RESULT](screenshots/gui_scan_result.png)
+![HTML Report](screenshots/html_report.png)
+![CSV output](screenshots/csv_output.png)
+![Project Structure](screenshots/vscode_project_structure.png)
 
 ## How It Works
 1. Sends ARP broadcast requests to all IPs in the target range
