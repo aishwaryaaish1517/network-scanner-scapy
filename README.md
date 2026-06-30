@@ -1,10 +1,3 @@
-# Network Scanner(Scapy)
-
-## Intern ID: CITS1971
-## Full Name: AISHWARYA S
-## No. of Weeks: 4
-## Project Name: Network Scanner(Scapy)
-
 ## Project Scope:
 A Python-based network scanning tool that uses ARP requests to discover all 
 active devices on a local network, identifies device vendors via MAC address 
